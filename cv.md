@@ -3,6 +3,7 @@
 + Telegram: @bugurdov
 + Email: sanya1337.0@gmail.com 
 + Tel: +79193848100
++ Discord: mfw#6484
 
 #### About myself: #####
 I want to be a JS developer in the future
