@@ -25,4 +25,4 @@ _Not yet gained experience_
 2. CSS
 
 #### Language: ####
-English level: A2
+English level: A1
