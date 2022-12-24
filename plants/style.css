@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+}
+ header {
+    background-color: #EDF2EC;
+    max-width: 1440px;
+ }
+
+ .navbar{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+ }
+
+.section-logo {
+    padding-left: 50px;
+}
+
+.section-logo img {
+    width: 19px;
+    height: 20px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    list-style: none;
+    padding-right: 50px;
+}
+
+ .nav-link {
+    color: #000;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0 20px;
+    line-height: 50px;
+ }
+
+ .section {
+    max-width: 1440px;
+ }
+.section-welcome {
+    background-color: #EDF2EC;
+    display: flex;
+
+}
+
+.title-welcome {
+    font-size: 45px;
+    line-height: 50px;
+}
+
+.text-welcome {
+font-size: 20px;
+line-height: 35px;
+}
+
+.welcome-img {
+    width: 500px;
+    padding: 50px;
+}
+
+.highlight-span-green {
+    color: #499A18;
+}
+
+.button-welcome {
+    font-size: 16px;
+    line-height: 20px;
+    border-radius: 10px;
+    border-color: #e26732;
+    cursor: pointer;
+    padding: 13px;
+    width: 175px;
+}
