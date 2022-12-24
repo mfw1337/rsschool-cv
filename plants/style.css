@@ -10,6 +10,7 @@
    display: flex;
    justify-content: space-between;
    align-items: center;
+   font-family: Inika;
  }
 
 .section-logo {
@@ -28,6 +29,7 @@
     flex-direction: row;
     list-style: none;
     padding-right: 50px;
+   
 }
 
  .nav-link {
@@ -44,27 +46,38 @@
 .section-welcome {
     background-color: #EDF2EC;
     display: flex;
+    font-family: Inter;
+    justify-content: space-around;
+    height: 532px;
+    align-items: center;
 
 }
 
 .title-welcome {
     font-size: 45px;
     line-height: 50px;
+    color: #717171;
 }
 
 .text-welcome {
 font-size: 20px;
 line-height: 35px;
+color: #636060;
 }
 
 .welcome-img {
-    width: 500px;
-    padding: 50px;
+    width: 400px;
+    
 }
 
 .highlight-span-green {
     color: #499A18;
 }
+
+.highlight-span-orange {
+    color: #E06733;
+}
+
 
 .button-welcome {
     font-size: 16px;
@@ -73,5 +86,27 @@ line-height: 35px;
     border-color: #e26732;
     cursor: pointer;
     padding: 13px;
+    margin-top: 30px;
     width: 175px;
 }
+
+.section-about {
+    display: flex;
+    justify-content:space-evenly;
+    height: 666px;
+    margin-top: 100px;
+}
+
+.section-about h2 {
+    font-family: Inika;
+    font-size: 40px;
+    line-height: 52px;
+    font-weight: 400;
+}
+
+.text-about {
+    font-size: 20px;
+    line-height: 30px;
+    color: #636060;
+    width: 500px;
+    }
